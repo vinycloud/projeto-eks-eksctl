@@ -335,5 +335,7 @@ Para dúvidas ou problemas:
 ---
 
 **Desenvolvido por**: Vinicius Fialho
+
 **Data**: 09/08/2025  
+
 **Versão**: v1.0.0
